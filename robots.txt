@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://izohchihe.xn--crft-moa.com/sitemap.xml
